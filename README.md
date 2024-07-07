@@ -1,2 +1,2 @@
 # hikerland
-A hiking business website 
+A hiking website 
